@@ -1,0 +1,18 @@
+// ==========================================================================
+// Theme Style Main
+// ==========================================================================
+
+/*!
+Theme Name: Luminus Hair
+Author URI: http://www.luminushair.net
+Description: Luminus Hair main stylesheet.
+Author: CHR Designer
+Author URI: http://chrdesigner.com/
+*/
+
+@import
+        "variables",           // Theme       Custom Variables
+        "bootstrap/bootstrap", // Bootstrap   Styles Core
+        "layout",              // Theme       Custom Layout
+        "mobile"               // Mobile      Styles Mobile
+;

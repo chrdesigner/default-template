@@ -1,0 +1,27 @@
+{
+  "name": "bower-chrdesigner",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  },
+  "description": "Modelo Padrão",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "grunt": "^1.0.1",
+    "modernizr": "~2.8.3",
+    "themify-icons": "^0.1.2"
+  },
+  "authors": [
+    "CHR Designer"
+  ]
+}
