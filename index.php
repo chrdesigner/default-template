@@ -1,3 +1,5 @@
 <?php include('header.php');?>
-	MEIO 
+	<article class="container">
+		MEIO
+	</article>
 <?php include('footer.php'); ?>

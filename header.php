@@ -21,7 +21,12 @@
 </head>
 
 <body>
-  <header>
-    CABECALHO
-  </header>
-  <main id="main">
+    <header id="header" class="container-fluid">
+
+      <div class="container">
+        <h1>LOGO</h1>
+      </div>
+
+    </header>
+    
+    <main id="main">
