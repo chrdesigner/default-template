@@ -1,10 +1,8 @@
-    </main>
     
-    <footer class="container-fluid">
-        <div class="container">
-    	     FOOTER
-        </div>
-    </footer>
+      <footer>
+        <p>&copy; Company 2016</p>
+      </footer>
+    </div>
 
     <!-- bower:js -->
     <script src="src/bower_components/jquery/dist/jquery.js"></script>
