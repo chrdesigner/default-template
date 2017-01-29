@@ -4,13 +4,13 @@
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
       
-      <title>The HTML5 Herald</title>
+      <title>Default Template - Grunt + Bower + Bootstrap | CHR Designer</title>
       
       <meta name="description" content="">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       
       <link href="assets/images/favicons/favicon.ico" rel="shortcut icon">
-      <link rel="apple-touch-icon" href="assets/images//favicons/apple-touch-icon.png">
+      <link rel="apple-touch-icon" href="assets/images/favicons/apple-touch-icon.png">
 
       <link rel="stylesheet" href="assets/css/style.css">
 

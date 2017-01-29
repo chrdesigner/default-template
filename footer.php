@@ -1,6 +1,6 @@
     
       <footer>
-        <p>&copy; Company 2016</p>
+        <p>&copy; Company <?php echo date("Y"); ?></p>
       </footer>
     </div>
 
@@ -10,5 +10,8 @@
     <script src="src/bower_components/modernizr/modernizr.js"></script>
     <script src="src/bower_components/themify-icons/ie7/ie7.js"></script>
     <!-- endbower -->
+
+    <script src="assets/js/main.min.js"></script>
+
   </body>
 </html>
