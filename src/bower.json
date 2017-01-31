@@ -4,7 +4,7 @@
   "devDependencies": {
     "jquery": "~2.1.4"
   },
-  "description": "Modelo Padrão",
+  "description": "Modelo Padrão - Grunt + Bower + Bootstrap",
   "main": "",
   "license": "MIT",
   "homepage": "",
@@ -16,9 +16,9 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^3.3.7",
     "grunt": "^1.0.1",
-    "modernizr": "~2.8.3",
+    "modernizr": "~3.3.1",
     "themify-icons": "^0.1.2",
     "jquery": "^3.1.1"
   },
